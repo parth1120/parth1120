@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm an Front End Developer 🚀.  
+I'm a Front End Developer 🚀.  
 
 Technologies:
 - Javascript, React, Angular 
