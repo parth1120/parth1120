@@ -1,4 +1,4 @@
-# Hello World, I'm Parth. 👋
+# Hello World, I'm Parth. 👋🏻
 
 <a href="https://www.linkedin.com/in/parth-shrivastava-3267b2146/">
   <img align="left" alt="Parth Shrivastava - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
