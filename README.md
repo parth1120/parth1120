@@ -17,7 +17,7 @@
 Technologies:
 
 
-- Javascript, React, Angular 
+- Javascript, React, Redux, Angular 
 - HTML, CSS, Bootstrap 
 
 Also I'm learning:
