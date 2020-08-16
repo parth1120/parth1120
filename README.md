@@ -15,10 +15,12 @@
 ## I'm a Front End Developer 🚀.  
 
 Technologies:
+
+
 - Javascript, React, Angular 
 - HTML, CSS, Bootstrap 
 
-Also interested in:
+Also I'm learning:
 - Node.js, Express.js, MongoDB
 
 Cheers,  
