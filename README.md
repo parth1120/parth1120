@@ -20,7 +20,7 @@
 Technologies:
 
 
-- Javascript, React, Redux, Angular 
+- Javascript, React, Redux, React Native, Angular 
 - HTML, CSS, Bootstrap 
 
 Also I'm learning:
