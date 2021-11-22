@@ -10,7 +10,7 @@
   <img align="left" alt="Parth Shrivastava - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <a href="https://drive.google.com/file/d/1psLb6fj-RqRCCTchyxRfkKCVPYSN0B-Q/view?usp=sharing" target="_blank">
-  <img align="left" alt="Parth Shrivastava - Facebook" width="22px" src="https://image.flaticon.com/icons/svg/538/538845.svg"/>
+  <img align="left" alt="Parth Shrivastava - Facebook" width="22px" src="https://img.icons8.com/material-outlined/24/000000/file.png"/>
 </a>
 <br />
 <br />
