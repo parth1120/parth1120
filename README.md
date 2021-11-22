@@ -1,12 +1,12 @@
 # Hello World, I'm Parth. 👋🏻
 
-<a href="https://www.linkedin.com/in/parth-shrivastava-3267b2146/" target="_blank">
+<a href="https://www.linkedin.com/in/parth-shrivastava-3267b2146/" target="_blank" title="Linkedin">
   <img align="left" alt="Parth Shrivastava - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://twitter.com/paaarth_97" target="_blank">
+<a href="https://twitter.com/paaarth_97" target="_blank" title="Twitter">
   <img align="left" alt="Parth Shrivastava - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://www.facebook.com/parthshrivastava11" target="_blank">
+<a href="https://www.facebook.com/parthshrivastava11" target="_blank" title="Facebook">
   <img align="left" alt="Parth Shrivastava - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <a href="https://drive.google.com/file/d/1psLb6fj-RqRCCTchyxRfkKCVPYSN0B-Q/view?usp=sharing" target="_blank" title="Resume">
