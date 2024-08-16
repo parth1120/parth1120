@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/parthshrivastava11" target="_blank" title="Facebook">
   <img align="left" alt="Parth Shrivastava - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-<a href="https://drive.google.com/file/d/1psLb6fj-RqRCCTchyxRfkKCVPYSN0B-Q/view?usp=sharing" target="_blank" title="Resume">
+<a href="https://drive.google.com/file/d/1d1QtLW26YAdd9JU6lvtAxyTSbkwcSrDW/view?usp=sharing" target="_blank" title="Resume">
   <img align="left" alt="Parth Shrivastava - Resume" width="22px" src="https://img.icons8.com/material-outlined/24/000000/file.png"/>
 </a>
 <br />
