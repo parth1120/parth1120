@@ -4,7 +4,6 @@ Senior Frontend Engineer with 7+ years
 building scalable React applications.
 I specialize in micro-frontend architecture,
 design systems, and web performance optimization.
-Currently leading an 8-person frontend pod.
 
 ---
 
