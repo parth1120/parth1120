@@ -1,6 +1,4 @@
-# Hello World, I'm Parth. 👋🏻
-
-## I'm a Senior Frontend Developer 🚀🇮🇳
+# Hello World, I'm Parth. 👋🏻 I'm a Senior Frontend Developer 🚀🇮🇳
 
 Technologies:
 
