@@ -8,14 +8,6 @@ Seven years of React, TypeScript, and Next.js — mostly spent closing the gap b
 
 ---
 
-## 📦 Open Source
-
-Coming soon — `react-toast-imperative`
-
-A zero-context, imperative toast API for React. No Provider. No prop drilling. Just `toast.success("Done")` from anywhere.
-
----
-
 ## 🧭 What I Care About
 
 - **Frontend architecture that teams can own independently** — monorepos, shared libraries, design systems that don't become bottlenecks
