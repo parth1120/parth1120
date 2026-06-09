@@ -15,7 +15,7 @@
 <br />
 <br />
 
-## I'm a Front End Developer 🚀🇮🇳
+## I'm a Senior Frontend Developer 🚀🇮🇳
 
 Technologies:
 
