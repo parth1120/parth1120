@@ -15,7 +15,7 @@
 <br />
 <br />
 
-## I'm a Front End Developer 🚀 from India 🇮🇳
+## I'm a Front End Developer 🚀🇮🇳
 
 Technologies:
 
